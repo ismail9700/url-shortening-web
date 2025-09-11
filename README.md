@@ -1,6 +1,5 @@
 # Shortly
 
-## Description
 Shortly is a lightweight tool for shortening URLs, enabling users to create compact, shareable links that redirect to the original URL.
 
 ## Demo
