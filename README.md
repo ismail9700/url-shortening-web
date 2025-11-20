@@ -1,9 +1,9 @@
 # Shortly
 
-Shortly is a lightweight tool for shortening URLs, enabling users to create compact, shareable links that redirect to the original URL.
+A tool for shortening URLs. 
 
 ## Demo
-[**Try Shortly Live**](https://ismail-shortly.netlify.app/)
+[**Try It Live**](https://ismail-shortly.netlify.app/)
 
 ## Screenshots
 ![Desktop Screenshot](screenshots/screenshot-shortly-desktop.png)
