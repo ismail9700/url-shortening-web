@@ -1,7 +1,3 @@
-# Shortly
-
-A tool for shortening URLs. 
-
 ## Demo
 [**Try It Live**](https://ismail-shortly.netlify.app/)
 
